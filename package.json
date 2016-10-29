@@ -1,0 +1,22 @@
+﻿{
+  "name": "laytpl",
+  "version": "1.2.0",
+  "description": "JavaScript模板引擎",
+  "main": "src/laytpl.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "gulp"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/sentsin/laytpl.git"
+  },
+  "author": "贤心",
+  "homepage": "http://www.layui.com/doc/modules/laytpl.html",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-header": "^1.8.8",
+    "del": "^2.2.2"
+  }   
+}

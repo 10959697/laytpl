@@ -1,0 +1,19 @@
+{
+  "name": "laytpl",
+  "main": "src/laytpl.js",
+  "version": "1.2.0",
+  "homepage": "https://github.com/sentsin/laytpl",
+  "authors": [
+    "sentsin <xu@sentsin.com>"
+  ],
+  "description": "JS模板引擎",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "laytpl",
+    "templeate"
+  ],
+  "license": "MIT"
+}
