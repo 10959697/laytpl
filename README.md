@@ -19,7 +19,7 @@ laytpl是一款非常轻量的JavaScript模板引擎，语法遵循原生JS。la
 ```
 
 ## 协议(License) 
-The MIT License
+MIT License
 
 ## 详细文档
 [官网](http://www.layui.com/doc/modules/laytpl.html)
