@@ -18,7 +18,7 @@ laytpl是一款非常轻量的JavaScript模板引擎，语法遵循原生JS。la
 {{# JavaScript表达式 }}
 ```
 
-## 协议(License) 
+## 协议
 MIT License
 
 ## 详细文档
