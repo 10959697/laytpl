@@ -109,6 +109,7 @@ laytpl.config = function(options){
 
 laytpl.v = '1.2';
 
+/* istanbul ignore next */
 "function" == typeof define ? define(function() {
   return laytpl
 }) : "undefined" != typeof exports ? module.exports = laytpl : window.laytpl = laytpl
