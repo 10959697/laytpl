@@ -18,6 +18,19 @@ laytpl是一款非常轻量的JavaScript模板引擎，语法遵循原生JS。la
 {{# JavaScript表达式 }}
 ```
 
+## 测试
+
+```
+# 安装依赖
+npm install
+
+# 单元测试
+npm run test
+
+# 覆盖率测试
+npm run test:cov
+```
+
 ## 协议
 MIT License
 
