@@ -90,7 +90,7 @@ Tpl.pt.render = function(data, callback){
   var that = this, tpl;
   if(!data) return tool.error('no data');
   tpl = that.cache ? that.cache(data, tool.escape) : that.parse(that.tpl, data);
-  console.log()
+  // console.log()
   if(!callback) return tpl;
   callback(tpl);
 };
@@ -109,6 +109,7 @@ laytpl.config = function(options){
 
 laytpl.v = '1.2';
 
+/* istanbul ignore next */
 "function" == typeof define ? define(function() {
   return laytpl
 }) : "undefined" != typeof exports ? module.exports = laytpl : window.laytpl = laytpl
